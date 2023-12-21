@@ -1,0 +1,51 @@
+RecordID,PatientName,Addr,Phone,Procedure,Cost,Room,RoomType,Physician,Nurse,Date of Procedure,Stay Arrival,Stay Departure
+1,John Smith,42 Foobar Lane,555-0256,Obtuse Pyloric Recombobulation,3750,111,Single,Elicia Giraux,Carla Espinosa,2008-05-03,2008-05-01,2008-05-04
+2,John Smith,42 Foobar Lane,555-0256,Reversible Pancreomyoplasty,5600,111,Single,Christopher Turk,Carla Espinosa,2008-05-02,2008-05-01,2008-05-04
+3,John Smith,42 Foobar Lane,555-0256,Follicular Demiectomy,25,111,Single,Keith Dudemeister,Jewelle Draco,2008-05-03,2008-05-01,2008-05-04
+4,Dennis Doe,1100 Foobaz Avenue,555-2048,Reverse Rhinopodoplasty,1500,112,Single,Elliot Reid,Laverne Roberts,2008-05-03,2008-05-02,2008-05-03
+5,Dennis Doe,1100 Foobaz Avenue,555-2048,Complete Walletectomy,10000,112,Single,Percival Cox,Paul Flowers,2008-05-03,2008-05-02,2008-05-03
+6,Dennis Doe,1100 Foobaz Avenue,555-2048,Obfuscated Dermogastrotomy,4899,112,Single,Peirce Everson,NULL,2008-05-02,2008-05-02,2008-05-03
+7,Linda Brooks,159 Cat Road,555-1057,Complete Pyrokinesis ,5500,101,Double,Molly Clock,NULL,2008-05-06,2008-05-05,2008-05-07
+8,Cary Richard,34 Brick Street,555-7801,Obfuscated Dermogastrotomy,4899,311,Single,Todd Quinlan,Carla Espinosa,2008-05-04,2008-05-03,2008-05-10
+9,Cary Richard,34 Brick Street,555-7801,Folded Demiophtalmectomy,4500,311,Single,Todd Quinlan,Lydon Sirette,2008-05-08,2008-05-03,2008-05-10
+10,Shane Meyer,78 Apple Road,555-0117,Radiant Pyratninjaectomy,500,122,Triple,Molly Clock,NULL,2008-05-09,2008-05-07,2008-05-12
+11,Shane Meyer,78 Apple Road,555-0117,Follicular Demiectomy,25,122,Triple,Keith Dudemeister,Ynes Yankov,2008-05-11,2008-05-07,2008-05-12
+12,Renee Whitaker,325 Oak Road,555-3653,Complete Pyrokinesis ,5500,101,Double,Molly Clock,NULL,2008-05-07,2008-05-06,2008-05-09
+13,Juanita McClain,12 Chair Lane,555-3025,Hydro Bactaregenbobulation,2500,122,Triple,Deeann Haughton,Paul Flowers,2008-05-07,2008-05-06,2008-05-18
+14,Guy Moore,221 Rose Avenue,555-0024,Reversible Cryobobulation,1075,112,Single,John Wen,NULL,2008-05-11,2008-05-10,2008-05-12
+15,Cary Richard,34 Brick Street,555-7801,Obtuse Pyloric Recombobulation,3750,222,Single,Elicia Giraux,Laverne Roberts,2008-05-16,2008-05-15,2008-05-24
+16,Cary Richard,34 Brick Street,555-7801,Obfuscated Dermogastrotomy,4899,222,Single,Todd Quinlan,Carla Espinosa,2008-05-19,2008-05-15,2008-05-24
+17,Cary Richard,34 Brick Street,555-7801,Complete Pyrokinesis ,5500,222,Single,Molly Clock,NULL,2008-05-22,2008-05-15,2008-05-24
+18,Hugh Jarvis,125 Orange Avenue,555-8582,Hydro Bactaregenbobulation,2500,303,Triple,Percival Cox,Paul Flowers,2008-05-12,2008-05-11,2008-05-13
+19,Clifford Ross,654 Desk Street,555-0125,Reverse Rhinopodoplasty,1500,402,Single,Elliot Reid,NULL,2008-05-16,2008-05-15,2008-05-19
+20,Albert Coffey,354 Cherry Street,555-1578,Obtuse Pyloric Recombobulation,3750,303,Triple,Collene Dight,Laverne Roberts,2008-05-13,2008-05-12,2008-05-20
+21,Albert Coffey,354 Cherry Street,555-1578,Reversible Cryobobulation,1075,303,Triple,Todd Quinlan,Paul Flowers,2008-05-15,2008-05-12,2008-05-20
+22,Albert Coffey,354 Cherry Street,555-1578,Radiant Pyratninjaectomy,500,303,Triple,Molly Clock,NULL,2008-05-18,2008-05-12,2008-05-20
+23,Ruben Gordon,454 Pine Avenue,555-2757,Infinite Midichlorianastronomy,899,203,Single,Sabrina Solly,Paul Flowers,2008-05-19,2008-05-18,2008-05-20
+24,Renee Whitaker,325 Oak Road,555-3653,Folded Demiophtalmectomy,4500,101,Double,John Wen,Fergus Basset,2008-05-15,2008-05-15,2008-05-17
+25,Grace Ritchie,37 Snafu Drive,555-0512,Reverse Rhinopodoplasty,1500,221,Single,Elliot Reid,Lydon Sirette,2008-05-17,2008-05-17,2008-05-18
+26,Eugene Harman,35 Cardinal Drive,555-9210,Reverse Rhinopodoplasty,1500,223,Double,Collene Dight,Paul Flowers,2008-05-12,2008-05-11,2008-05-13
+27,Miranda Rowland,141 Chocolate Street,555-1582,Obfuscated Dermogastrotomy,4899,313,Single,Todd Quinlan,Jewelle Draco,2008-05-29,2008-05-28,2008-05-30
+28,Felipe McFadden,156 Table Avenue,555-1254,Complete Walletectomy,10000,312,Triple,Noelyn Jagg,NULL,2008-05-19,2008-05-19,2008-05-20
+29,Kelvin Lester,41 Onion Lane,555-3201,Follicular Demiectomy,25,413,Triple,Keith Dudemeister,Carla Espinosa,2008-05-01,2008-05-01,2008-05-03
+30,Taylor Freeman,145 Bird Avenue,555-1020,Obfuscated Dermogastrotomy,4899,401,Single,Jude Archbold,Donall Paolone,2008-05-07,2008-05-04,2008-05-07
+31,Barbara Hathaway,109 Candle Street,555-3025,Follicular Demiectomy,25,321,Double,John Dorian,Donall Paolone,2008-05-30,2008-05-30,2008-05-31
+32,Random J. Patient,101 Omgbbq Street,555-1204,Complete Pyrokinesis ,5500,303,Triple,Molly Clock,NULL,2008-05-15,2008-05-15,2008-05-16
+33,Random J. Patient,101 Omgbbq Street,555-1204,Radiant Pyratninjaectomy,500,303,Triple,Molly Clock,NULL,2008-05-16,2008-05-15,2008-05-16
+34,Georgia Blake,144 Salad Drive,555-5587,Infinite Midichlorianastronomy,899,123,Double,Sabrina Solly,Ynes Yankov,2008-05-14,2008-05-22,2008-05-26
+35,Marco Wilkerson,258 Book Road,555-9851,Radiant Pyratninjaectomy,500,312,Triple,Molly Clock,NULL,2008-05-25,2008-05-25,2008-05-26
+36,Pedro Mullen,74 Cheese Street,555-8574,Reversible Cryobobulation,1075,421,Double,Christopher Turk,Laverne Roberts,2008-05-25,2008-05-23,2008-05-29
+37,Carlton Hernandez,48 Burger Street,555-7541,Complete Pyrokinesis ,5500,211,Single,Molly Clock,NULL,2008-05-11,2008-05-10,2008-05-11
+38,Pedro Mullen,74 Cheese Street,555-8574,Obfuscated Dermogastrotomy,4899,421,Double,Peirce Everson,Jewelle Draco,2008-05-24,2008-05-23,2008-05-29
+39,Grace Ritchie,37 Snafu Drive,555-0512,Folded Demiophtalmectomy,4500,423,Single,Christopher Turk,Lydon Sirette,2008-05-27,2008-05-25,2008-05-31
+40,Clifford Ross,654 Desk Street,555-0125,Radiant Pyratninjaectomy,500,402,Single,Molly Clock,NULL,2008-05-18,2008-05-15,2008-05-19
+41,Taylor Freeman,145 Bird Avenue,555-1020,Hydro Bactaregenbobulation,2500,401,Single,Deeann Haughton,Carla Espinosa,2008-05-06,2008-05-04,2008-05-07
+42,Barbara Hathaway,109 Candle Street,555-3025,Obtuse Pyloric Recombobulation,3750,321,Double,Elliot Reid,Paul Flowers,2008-05-30,2008-05-30,2008-05-31
+43,Ruben Gordon,454 Pine Avenue,555-2757,Folded Demiophtalmectomy,4500,203,Single,Peirce Everson,Jewelle Draco,2008-05-19,2008-05-18,2008-05-20
+44,Kelvin Lester,41 Onion Lane,555-3201,Follicular Demiectomy,25,413,Triple,Keith Dudemeister,Paul Flowers,2008-05-02,2008-05-01,2008-05-03
+45,Felipe McFadden,156 Table Avenue,555-1254,Hydro Bactaregenbobulation,2500,102,Double,Deeann Haughton,NULL,2008-05-30,2008-05-30,2008-05-31
+46,Miranda Rowland,141 Chocolate Street,555-1582,Follicular Demiectomy,25,113,Double,Collene Dight,Fergus Basset,2008-05-07,2008-05-06,2008-05-08
+47,Carlton Hernandez,48 Burger Street,555-7541,Folded Demiophtalmectomy,4500,102,Double,John Wen,Ynes Yankov,2008-05-22,2008-05-19,2008-05-23
+48,Carlton Hernandez,48 Burger Street,555-7541,Obtuse Pyloric Recombobulation,3750,102,Double,Collene Dight,Jewelle Draco,2008-05-21,2008-05-19,2008-05-23
+49,Marco Wilkerson,258 Book Road,555-9851,Complete Pyrokinesis ,5500,201,Double,Molly Clock,NULL,2008-05-09,2008-05-08,2008-05-09
+50,Grace Ritchie,37 Snafu Drive,555-0512,Complete Walletectomy,10000,423,Single,Bob Kelso,Carla Espinosa,2008-05-27,2008-05-25,2008-05-31
